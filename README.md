@@ -3,7 +3,7 @@ Resize Rectangle on Touch &amp; Drag.
 
 This is a simple example App to show how a rectangle can be resized by touch & drag.
 As recommended when using AutoLaout, the constraints of the rectangle are animated rather than the actual size of the rect.
-Works therefore in horizontal & landscape mode.
+Works basically in portrait and landscape mode, too.
 
 ## Build with
 * Xcode 10.1
